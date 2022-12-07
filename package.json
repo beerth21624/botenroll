@@ -1,0 +1,19 @@
+{
+  "name": "untitled-folder",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "botEnroll.js",
+  "scripts": {
+    "start": "node botEnroll.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "crypto-js": "^4.1.1",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20"
+  }
+}
