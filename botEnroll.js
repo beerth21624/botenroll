@@ -4,8 +4,8 @@ import crypto from 'crypto'
 
 let count = 1
 
-const username = 'b6510405822'
-const password = 'Beer0849266487!'
+const username = ''
+const password = ''
 
 let token = ''
 
